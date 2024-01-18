@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.profilecontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  width: 100px;
+  height: 100px;
+}
+.name {
+  font-size: 20px;
+  font-weight: bold;
+}
+.profession {
+  font-size: 10px;
+}

@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+
+.eachlist {
+  display: flex;
+  justify-content: space-between;
+}
+.textcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.title {
+  font-size: 10px;
+  font-weight: bold;
+}
+.description {
+  font-size: 10px;
+}
+.date {
+  font-size: 10px;
+}
